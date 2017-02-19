@@ -1,4 +1,4 @@
-# y
+# vuex-demo-simple
 
 > learn vuex demo
 
